@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\juliu\source\repos\CHOPS\CHOPS\Main.cpp(15,11): error C2131: expression did not evaluate to a constant
+C:\Users\juliu\source\repos\CHOPS\CHOPS\Main.cpp(15,11): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\juliu\source\repos\CHOPS\CHOPS\Main.cpp(15,11): message : see usage of 'size'
+C:\Users\juliu\source\repos\CHOPS\CHOPS\Main.cpp(18,13): error C3863: array type 'int *[size]' is not assignable
