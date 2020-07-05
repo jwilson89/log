@@ -34,7 +34,7 @@ int main()
 	
 	//double Purchase = TotalCost(name, quantity, cost);
 
-	while(counter <= 3)
+	while(counter < 3)
 	{
 		std::cout << " Enter item name, quantity, and cost: " << std::endl;
 		std::getline(std::cin, nameA);
